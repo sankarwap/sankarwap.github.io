@@ -1,4 +1,4 @@
-<a href="#" id="logo-container" class="brand-logo">Armcha</a>
+<a href="#" id="logo-container" class="brand-logo">Sankarwap</a>
 
 -   [Service]
 -   [My projects]
@@ -17,7 +17,7 @@
 I Love <span class="cd-words-wrapper waiting"> **android** **creating** **developing** </span>
 ==============================================================================================
 
-Hi,my name is <span class="span_h2"> Arman Chatikyan </span>.  
+Hi,my name is <span class="span_h2"> Bala Sankar </span>.  
 I am <span class="span_h2"> android </span> developer.  
 I love <span class="span_h2"> android </span> app development. Welcome
 to my website.
